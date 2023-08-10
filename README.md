@@ -17,6 +17,8 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0b0038?style=for-the-badge&logo=scikit-learn&logoColor=fa9b38)
 
 
+![Сертификат](https://github.com/RyaGri/RyaGri/blob/main/СЕРТИФИКАТ.pdf)
+[Сертификат доступен по ссылке](https://lab.karpov.courses/certificate/42fb030f-94e4-401d-8b29-0e5fd5529642/)
 
 ![I am GitHub Readme Generator's creator](https://memchik.ru/images/memes/5ad70c99b1c7e32f720a73eb.jpg)
 
